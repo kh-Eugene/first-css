@@ -83,8 +83,9 @@ body {
 }
 
 .footer {
+    display: flex;
+    justify-content: center;
     background: #f06429;
-    text-align: center;
 }
 
 .footer a {
